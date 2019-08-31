@@ -1,0 +1,21 @@
+Parts List:
+
+(1) ATMEGA328P-PU (Preprogrammed)
+
+(1) 28 Pin IC Socket
+
+(1) Piezo Buzzer
+
+(1) Push Button Switch 6mm X 6mm
+
+(1) USB - Micro B Vertical Female Connector
+
+(1) 10k Resistor
+
+(9) 1k Resistor
+
+(3) 3mm RED LEDs
+
+(3) 3mm GREEN LEDs
+
+(3) 3mm BLUE LEDs
